@@ -1,0 +1,12 @@
+C:\Users\GIANGPHAN\source\repos\SoundAdmin\SoundAdmin\bin\Debug\SoundAdmin.exe.config
+C:\Users\GIANGPHAN\source\repos\SoundAdmin\SoundAdmin\bin\Debug\SoundAdmin.exe
+C:\Users\GIANGPHAN\source\repos\SoundAdmin\SoundAdmin\bin\Debug\SoundAdmin.pdb
+C:\Users\GIANGPHAN\source\repos\SoundAdmin\SoundAdmin\obj\Debug\SoundAdmin.csprojAssemblyReference.cache
+C:\Users\GIANGPHAN\source\repos\SoundAdmin\SoundAdmin\obj\Debug\SoundAdmin.Properties.Resources.resources
+C:\Users\GIANGPHAN\source\repos\SoundAdmin\SoundAdmin\obj\Debug\SoundAdmin.csproj.GenerateResource.cache
+C:\Users\GIANGPHAN\source\repos\SoundAdmin\SoundAdmin\obj\Debug\SoundAdmin.csproj.CoreCompileInputs.cache
+C:\Users\GIANGPHAN\source\repos\SoundAdmin\SoundAdmin\obj\Debug\SoundAdmin.exe
+C:\Users\GIANGPHAN\source\repos\SoundAdmin\SoundAdmin\obj\Debug\SoundAdmin.pdb
+C:\Users\GIANGPHAN\source\repos\SoundAdmin\SoundAdmin\obj\Debug\SoundAdmin.Form1.resources
+C:\Users\GIANGPHAN\source\repos\SoundAdmin\SoundAdmin\obj\Debug\Interop.WMPLib.dll
+C:\Users\GIANGPHAN\source\repos\SoundAdmin\SoundAdmin\obj\Debug\SoundAdmin.csproj.ResolveComReference.cache
